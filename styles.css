@@ -37,6 +37,16 @@ p {
 }
 .game {
     color: red;
+    text-align:center;
+}
+h2{
+    color: red;
+}
+.best-class{
+    color: blue;
+}
+h2{
+    color:blue;
 }
 
     
